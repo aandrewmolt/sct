@@ -1,6 +1,5 @@
-# Solana Copy Trading Bot
 
-A Rust-based copy trading bot for Solana, focusing on Raydium trades.
+copy trading bot for S, focusing on Raydium trades.
 
 ## Features
 - Real-time transaction monitoring
